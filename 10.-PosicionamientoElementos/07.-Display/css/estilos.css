@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: beige;
+}
+h1{
+    color: hotpink;
+    text-align: center;
+}
+div.contenedor{
+    width: 80%;
+    height: 20%;
+    overflow: auto;
+    margin: auto;
+    border: 3px dashed hotpink;
+}
+span{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: large;
+    background-color: rebeccapurple;
+    border: 1px solid darkcyan;
+    height: 50px;
+    padding: 5px;
+    display: inline-block;
+}
+.menu{
+    list-style-type: none;
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    padding: 5px;
+    margin: 20px;
+    background-color: brown;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: beige;
+}

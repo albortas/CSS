@@ -1,0 +1,14 @@
+body{
+    /* background-color: dodgerblue; */
+    color: cornsilk;
+    /* background-image: url(/05.-ManejoFondos/img/fondo.png); */
+    /* background-repeat: no-repeat; */
+    /* background-position: right top; */
+    /* background-attachment: fixed; */
+    background: dodgerblue url(/05.-ManejoFondos/img/fondo.png) no-repeat right top fixed;
+}
+
+h1{
+    background-color: dodgerblue;
+    text-align: center;
+}

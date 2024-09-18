@@ -1,0 +1,26 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+body{
+    background-color: black;
+    color: beige;
+}
+
+h1{
+    color: hotpink;
+    text-align: center;
+}
+
+div{
+    padding: 5px;
+    margin: auto;
+    max-width: 400px;
+}
+
+.icon_azul{
+    font-size: 2.5em;
+    color: cornflowerblue;
+}
+.icon_rojo{
+    font-size: 3em;
+    color: crimson;
+}

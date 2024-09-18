@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: beige;
+}
+
+h1{
+    text-align: center;
+    color: hotpink;
+}
+
+div{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    border: 3px solid aqua;
+}

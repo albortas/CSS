@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: hotpink;
+    text-align: center;
+}
+div.contenedor{
+    background-color: white;
+    position: relative;
+    border: 3px dashed greenyellow;
+    width: 30%;
+    margin: auto;
+}
+.imagen{
+    width: 100%;
+    opacity: .2;
+}
+div.centro{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}

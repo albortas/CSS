@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: beige;
+}
+
+h1{
+    color: hotpink;
+    text-align: center;
+}
+
+div{
+    padding: 5px;
+    margin: auto;
+    max-width: 400px;
+}
+
+.icon_azul{
+    font-size: 2.5em;
+    color: cornflowerblue;
+    vertical-align: bottom;
+}
+.icon_rojo{
+    font-size: 3em;
+    color: crimson;
+}

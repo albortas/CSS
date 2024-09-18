@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: beige;
+}
+h1{
+    text-align: center;
+    color: hotpink;
+}
+div.absoluto{
+    /* width: 50% */
+    max-width: 50%;
+    border: 3px solid firebrick;
+    margin: auto;
+    /* position: relative; */
+    /* position: fixed; */
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+div.relativo{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: 10px;
+    left: 100px;
+    border: 3px solid cornflowerblue;
+}

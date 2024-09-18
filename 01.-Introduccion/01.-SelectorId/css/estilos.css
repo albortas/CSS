@@ -1,0 +1,21 @@
+/* Selector Universal */
+*{
+    background-color: ghostwhite;
+    color: blue;
+}
+
+/* ID */
+#titulo{
+    color: crimson;
+    text-align: center;
+}
+
+/* Clase */
+.centrar{
+    text-align: center;
+
+}
+
+.texto_grande{
+    font-size: 20px;
+}

@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: beige;
+}
+h1{
+    color: hotpink;
+    text-align: center;
+}
+div.contenedor{
+    width: 80%;
+    height: 20%;
+    margin: auto;
+    border: 3px solid aqua;
+    padding: 15px;
+    color: teal;
+}
+div.contenedor.descendiente p{
+    background-color: rgb(232, 215, 123);
+
+}

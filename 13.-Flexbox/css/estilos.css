@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: beige;
+}
+h1{
+    color: hotpink;
+    text-align: center;
+}
+div.contenedor{
+    display: flex;
+    background-color: blueviolet;
+    /* flex-direction: column; */
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    flex-flow: row wrap;
+    /* Vamos a centrar los parrafos */
+    justify-content: space-evenly;
+    height: 300px;
+    align-items: center;
+    align-content: center;
+}
+div.contenedor p{
+    background-color: #4895ef;
+    color: #f1faee;
+    margin: 20px;
+    padding: 15px;
+    font-size: 1.5em;
+}

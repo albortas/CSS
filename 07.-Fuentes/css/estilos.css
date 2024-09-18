@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Playwrite+CU:wght@100..400|Princess+Sofia&&effect=shadow-multiple|3d-float&display=swap');
+
+body{
+    background-color: black;
+    color: beige;
+}
+
+h1{
+    color: hotpink;
+    text-align: center;
+    font-family: "Princess Sofia";
+}
+
+.caja{
+    padding: 5px;
+    width: 40%;
+    height: 80px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    float: left;
+}
+
+.caja.serif{
+    background-color: #5a189a;
+}
+.caja.sans-serif{
+    background-color: #00b4d8;
+}
+.caja.monospace{
+    background-color: #f15bb5;
+}
+.caja.cursive{
+    background-color: #ff8500;
+}
+.caja.fonts-google{
+    background-color: aqua;
+}
+.fuente_PlaywriteCuba{
+    font-family: 'Playwrite CU';
+    font-style: normal;
+    font-weight: 400;
+    font-variant: small-caps;
+    font-size: 20px;
+    font-optical-sizing: auto;
+}
+.fuente_georgia{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: normal;
+    font-size: 1.2em; /* 16px / 16px = 1em */
+}
+.fuente_arial{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 3vw; /* view width */
+}
+.fuente_verdana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+}
+.fuente_courier{
+    font-family: 'Courier New', Courier, monospace;
+}
+.fuente_lucida{
+    font-family: 'Lucida Handwriting', cursive;
+}
+.princess-sofia-regular {
+    font-family: "Princess Sofia", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
